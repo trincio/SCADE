@@ -63,7 +63,7 @@ E' necessario che un responsabile o un componente del team con una minima compet
 ## Utilizzo e descrizione dell'Excel
 
 E' importantissimo:
-* effettuare frequenti backup.
+* effettuare frequenti backup dell'Excel
 * Aggiungere/modificare le proprie attività evitando di sovrapporsi (ancorché Excel lo possa consentire)
 * Aggiornare le attività completate, indicandolo.
 * Non cambiare il formato delle celle.
