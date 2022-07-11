@@ -5,7 +5,7 @@ Un sistema di gestione scadenze incredibilmente rudimentale, ma sperabilmente ef
 
 ## Obiettivo
 
-L'obiettivo di SCADE è mettere a disposizione uno scadenziario condiviso per piccole organizzazioni o team, che si affianchi, senza sostituirle, applicazioni più strutturate.
+L'obiettivo di SCADE è mettere a disposizione uno scadenziario condiviso per piccole organizzazioni o team, che si affianchi, senza sostituirle, ad applicazioni più strutturate.
 
 
 ## Prerequisiti per lo sviluppo
